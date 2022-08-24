@@ -1,0 +1,4 @@
+name = "AgentsECS"
+uuid = "fc5bc001-3b5d-4609-86d2-5b119fd0278f"
+authors = ["Micah Rufsvold <mrufsvold@mathematica-mpr.com>"]
+version = "0.1.0"

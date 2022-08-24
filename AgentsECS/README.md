@@ -19,6 +19,9 @@ The last function will generate the folder structure that this package will use 
 the ECS that you define. From there, you can fill in the specifics of your model and run
 the `main()` function in `src/model.jl` to run the simulation.
 
+## Creating your first model
+TODO = add instructions :)
+
 ## What is ECS
 Entity-Component-System is an architecture born out of video game programming that prioritizes
 data-oriented design over object-oriented design. ECS is named after its three essential elements:
@@ -64,7 +67,6 @@ myworld = World([1,6], ["A","B"])
 # Access first agent's second property
 myworld.props2[1]
 ```
-
 ## Why ECS
 Many developers learned to code in an object-oriented style. It has lots of benefits for
 reasoning about a system and maintaining clean code. If it ain't broke, why fix it?
